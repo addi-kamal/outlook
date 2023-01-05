@@ -1,11 +1,11 @@
 {
     "share_point": 
         {
-            "user": "kaddi@afdtech.com",
-            "password": "Kubart1@3adi",
-            "url": "https://hartwoodsa.sharepoint.com/sites/TEST155/",
+            "user": "username@mail.com",
+            "password": "passw0rd",
+            "url": "https://company.sharepoint.com/sites/PPDH24/",
             
-            "folder": "/sites/TEST155/Shared%20Documents/General/"
+            "folder": "/sites/PPDH24/Shared%20Documents/General/"
         
         }
 }
