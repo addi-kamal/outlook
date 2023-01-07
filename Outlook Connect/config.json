@@ -1,0 +1,11 @@
+{
+    "share_point": 
+        {
+            "user": "username@mail.com",
+            "password": "passw0rd",
+            "url": "https://company.sharepoint.com/sites/PPDH24/",
+            
+            "folder": "/sites/PPDH24/Shared%20Documents/General/"
+        
+        }
+}
